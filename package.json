@@ -1,0 +1,25 @@
+{
+  "name": "ms-autentication",
+  "version": "1.0.0",
+  "description": "Projeto de autenticação com nodejs.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanoelantonio/node-autentication.git"
+  },
+  "author": "Emanoel Antonio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanoelantonio/node-autentication/issues"
+  },
+  "homepage": "https://github.com/emanoelantonio/node-autentication#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "typescript": "^4.5.4"
+  }
+}
