@@ -2,7 +2,7 @@
 
 Este é projeto de **microserviço de autenticação** que poderá compor a sua caixinha de ferramentas e ser muito útil no seu dia a dia. :hammer::wrench:
 
-## Composição do nosso projeto
+## Composição do projeto
 
 Neste projeto Temos alguns **Endpoints Base** que podem ser extendidos da forma mais adequada para seu contexto. 
 
@@ -33,5 +33,6 @@ São eles:
 ## Links úteis
 
 [Design de API RESTFUL](https://docs.microsoft.com/pt-br/azure/architecture/best-practices/api-design) </br>
-[NODEJS](https://nodejs.org/pt-br/)</br>
-[EXPRESS](https://expressjs.com/pt-br/)
+[NodeJS](https://nodejs.org/pt-br/)</br>
+[Express](https://expressjs.com/pt-br/)</br>
+[Insomnia](https://insomnia.rest/download) (Usado para testar as requisições.)
