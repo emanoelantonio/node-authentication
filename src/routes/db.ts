@@ -1,7 +1,7 @@
 import { Pool } from "pg";
 
 
-const connectionString = 'seu banco aqui';
+const connectionString = 'URL database here';
 
 const db = new Pool({ connectionString });
 
